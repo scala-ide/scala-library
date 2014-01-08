@@ -1,0 +1,4 @@
+[submodule "scala"]
+	path = scala
+	url = git://github.com/scala/scala
+	branch = 2.10.x
