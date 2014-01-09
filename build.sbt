@@ -1,4 +1,4 @@
-scalaVersion := "2.11.0-1a8a33e-SNAPSHOT"
+scalaVersion := "2.11.0-61739ac-SNAPSHOT"
 
 scalacOptions in ThisBuild ++= Seq("-Yisnt-scala-211","-Ystop-after:typer")
 
