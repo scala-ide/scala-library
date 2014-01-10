@@ -1,6 +1,6 @@
-scalaVersion := "2.11.0-eb7de4e-SNAPSHOT"
+scalaVersion := "2.11.0-f24e9bc-SNAPSHOT"
 
-scalacOptions in ThisBuild ++= Seq("-source:2.10","-Ystop-after:typer")
+scalacOptions in ThisBuild ++= Seq("-Xsource:2.10","-Ystop-after:typer")
 
 autoScalaLibrary := false
 
